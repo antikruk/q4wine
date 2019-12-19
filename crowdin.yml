@@ -1,0 +1,3 @@
+files:
+  - source: /src/l10n/q4wine_en.ts
+    translation: /src/l10n/q4wine_%two_letters_code%.ts
